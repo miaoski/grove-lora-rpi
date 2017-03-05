@@ -17,5 +17,6 @@ also very neat.
 I have "translated" most of the code from 
 [Seeed-Studio's GitHub repo](https://github.com/Seeed-Studio/Grove_LoRa_433MHz_and_915MHz_RF).  
 They don't have a license in the repo, but the code is copyrighted by Mike McCauley.  
-I'm not a lawyer and just want to have fun.  In case of doubt, write your own library to avoid any possible 
-infringement of copyright laws.
+According to [RadioHead](http://www.airspayce.com/mikem/arduino/RadioHead/) homepage, the author offered it under GPLv2.
+
+It is thus legit to consider all derivative libraries are GPLv2.
